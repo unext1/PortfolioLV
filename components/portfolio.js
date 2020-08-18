@@ -25,22 +25,6 @@ export default function Portfolio() {
                 </div>
               </div>
             </div>
-            <div class="col-lg-4 col-md-6">
-              <div className="photo-effect">
-                <img
-                  src="https://scontent.fmmx3-1.fna.fbcdn.net/v/t1.15752-0/p280x280/118004779_1631425530370314_6365072364900257323_n.png?_nc_cat=104&_nc_sid=b96e70&_nc_ohc=WBODbDtRB0YAX_dzXyi&_nc_ht=scontent.fmmx3-1.fna&oh=b4ea0a2b5f3137ee1a0c0428c29b2baa&oe=5F62A9AC"
-                  class="img-fluid"
-                  alt=""
-                ></img>
-                <div class="overlay"></div>
-                <div class="photo-button">
-                  <a href="/" target="blank">
-                    View project
-                    <i class="fa fa-arrow-right" aria-hidden="true"></i>
-                  </a>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
       </div>
